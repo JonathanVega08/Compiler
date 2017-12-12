@@ -31,6 +31,7 @@ The input and output files can be found in the cmake-build-debug folder, also th
 
 #### Output
 <img src="https://github.com/JonathanVega08/Compiler/blob/master/img/output.png"/>
+<img src="https://github.com/JonathanVega08/Compiler/blob/master/img/output2.png"/>
 
 
 
