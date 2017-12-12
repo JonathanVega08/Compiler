@@ -4,7 +4,6 @@ This repository contains a compiler that processes statements written in the C++
 ## Requiremens
 To use the compiler it's recommended to use CLion IDE from jetBrains, but you can use another IDE.
 
-
 ## Introduction
 The application consist of four stages wich are Lexical, sytactic, semantic analysis and Code generation.
 
@@ -23,6 +22,15 @@ Finally the code generation takes the semantic tree and creates a .asm file with
 
 ### More information
 The input and output files can be found in the cmake-build-debug folder, also the .lr file with the rules is there.
+
+### Examples
+
+#### Input
+
+<img src="https://github.com/JonathanVega08/Compiler/blob/master/img/Input.png"/>
+
+#### Output
+<img src="https://github.com/JonathanVega08/Compiler/blob/master/img/output.png"/>
 
 
 
