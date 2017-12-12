@@ -5,7 +5,7 @@ This repository contains a compiler that processes statements written in the C++
 To use the compiler it's recommended to use CLion IDE from jetBrains, but you can use another IDE.
 
 ## Introduction
-The application consists of four stages wich are Lexical, sytactic, semantic analysis and Code generation.
+The application consists in four stages wich are Lexical, sytactic, semantic analysis and Code generation.
 
 ### Lexical analysis
 the lexical analizer reads every character from the input and assigns a token to it.
@@ -23,7 +23,7 @@ Finally the code generation takes the semantic tree and creates a .asm file with
 ### More information
 The input and output files can be found in the cmake-build-debug folder, also the .lr file with the rules is there.
 
-### Examples
+### Example
 
 #### Input
 
